@@ -1,6 +1,6 @@
-#Mulyukova Sophiya
+# Mulyukova Sophiya
 
-##Contacts:
+## Contacts:
 
 **e-mail:** mulsof@yandex.ru 
 
@@ -13,26 +13,26 @@
 My goal is to become a front-end developer.
 Ready for all the challenges. I like to learn new things and work with my head. I am ambitious, persistent and diligent. I hope I can become a good developer.
 
-##Skills
+## Skills
 
-###Tech
+### Tech
 
 HTML, CSS, Basic JS and Git
 
-###Tools
+### Tools
 
 Visual Studio Code, Figma, Photoshop, Avocode
 
-##Code Examples
+## Code Examples
 
-##Experience
+## Experience
 
 I tried to typeset simple landing pages
 
-##Education
+## Education
 
 Self-education on HTMLAcademy
 
 Studying learn.javascript.ru
 
-##English level is B1
+## English level is B1
