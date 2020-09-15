@@ -35,4 +35,4 @@ Self-education on HTMLAcademy
 
 Studying learn.javascript.ru
 
-## English level is B1
+## English level is A2
