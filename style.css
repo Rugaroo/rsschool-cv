@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(img/shattered-island.gif);
+  font-family: 'Roboto', sans-serif;
+  color:  rgb(54, 54, 54);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 95%;
+  width: 1024px;
+  min-height: 100vh;
+  background-color: rgb(244, 244, 244);
+  padding: 100px;
+
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-top: 0%;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 59px;
+  text-align: center;
+}
+
+.text {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.photo {
+  margin-left: 100px;
+  height: 389px;
+}
+.skills {
+  display: flex;
+}
+.tech-skills {
+  margin-right: 150px;
+}
+ul li {
+  margin-bottom: 10px;
+}
+.footer {
+  margin-top: 50px;
+}
+.contacts-title {
+  text-align: right;
+}
+.contacts {
+  display: flex;
+  justify-content: flex-end;
+}
+.contact {
+  margin-left: 50px;
+}
+.title-contact {
+  margin-bottom: 5px;
+}
+.description-contact {
+  margin-top: 0;
+}
